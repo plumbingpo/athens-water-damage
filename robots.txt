@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://athensrestorationco.com/sitemap.xml
